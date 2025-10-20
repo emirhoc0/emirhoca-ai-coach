@@ -1,0 +1,14 @@
+# venv / caches
+.venv/
+__pycache__/
+*.pyc
+
+# env & local DB
+.env
+*.db
+*.sqlite3
+
+# OS / editor junk
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,36 @@
+{
+  "exercises": [
+    {"name":"Barbell Back Squat","muscle":"quads","equipment":["barbell","rack"],"injury_exclude":["knee","low_back"]},
+    {"name":"Leg Press","muscle":"quads","equipment":["machine"],"injury_exclude":["knee"]},
+    {"name":"Dumbbell Split Squat","muscle":"quads","equipment":["dumbbell"],"injury_exclude":["knee"]},
+
+    {"name":"Romanian Deadlift","muscle":"hamstrings","equipment":["barbell","dumbbell"],"injury_exclude":["hamstring","low_back"]},
+    {"name":"Lying Leg Curl","muscle":"hamstrings","equipment":["machine"],"injury_exclude":["hamstring"]},
+
+    {"name":"Barbell Bench Press","muscle":"chest","equipment":["barbell","rack"],"injury_exclude":["shoulder","elbow"]},
+    {"name":"Dumbbell Flat Press","muscle":"chest","equipment":["dumbbell"],"injury_exclude":["shoulder"]},
+    {"name":"Incline Machine Press","muscle":"chest","equipment":["machine"],"injury_exclude":["shoulder"]},
+
+    {"name":"Lat Pulldown","muscle":"lats","equipment":["machine","cable"],"injury_exclude":["elbow","shoulder"]},
+    {"name":"Pull-up / Assisted","muscle":"lats","equipment":["bar","assisted"],"injury_exclude":["elbow","shoulder"]},
+
+    {"name":"Seated Cable Row","muscle":"mid_back","equipment":["cable"],"injury_exclude":["low_back"]},
+    {"name":"Chest Supported Row","muscle":"mid_back","equipment":["machine","dumbbell"],"injury_exclude":[]},
+
+    {"name":"Overhead Press (DB)","muscle":"delts","equipment":["dumbbell"],"injury_exclude":["shoulder"]},
+    {"name":"Lateral Raise (Cable)","muscle":"delts","equipment":["cable"],"injury_exclude":["shoulder"]},
+
+    {"name":"Barbell Curl","muscle":"biceps","equipment":["barbell"],"injury_exclude":["elbow","wrist"]},
+    {"name":"Cable Curl","muscle":"biceps","equipment":["cable"],"injury_exclude":["wrist"]},
+
+    {"name":"Cable Triceps Pressdown","muscle":"triceps","equipment":["cable"],"injury_exclude":["elbow"]},
+    {"name":"Skullcrusher (EZ)","muscle":"triceps","equipment":["barbell"],"injury_exclude":["elbow"]},
+
+    {"name":"Hip Thrust (Barbell)","muscle":"glutes","equipment":["barbell","bench"],"injury_exclude":["hamstring","low_back"]},
+    {"name":"Glute Bridge (Machine)","muscle":"glutes","equipment":["machine"],"injury_exclude":[]},
+
+    {"name":"Calf Raise (Seated)","muscle":"calves","equipment":["machine"],"injury_exclude":["ankle"]},
+    {"name":"Plank","muscle":"core","equipment":["bodyweight"],"injury_exclude":["shoulder"]},
+    {"name":"Cable Crunch","muscle":"core","equipment":["cable"],"injury_exclude":["low_back"]}
+  ]
+}
